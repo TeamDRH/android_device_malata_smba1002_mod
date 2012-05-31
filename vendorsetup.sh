@@ -1,0 +1,1 @@
+add_lunch_combo full_smba1002-userdebug
