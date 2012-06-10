@@ -1,3 +1,4 @@
+etc/firmware/bcm4329.hcd
 etc/firmware/nvrm_avp_00001000.bin
 etc/firmware/nvmm_h264dec2x.axf
 etc/firmware/nvrm_avp_e0000000.bin
